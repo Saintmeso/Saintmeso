@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hello there!
 
-<!--
-**Saintmeso/Saintmeso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Yousif, a cybersecurity student focused on GRC, security automation, and cloud security.
 
-Here are some ideas to get you started:
+I enjoy building projects that help me learn by doing, whether that's compliance auditing, security monitoring, or cloud-based security labs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If an idea helps me learn something new, I'll probably build it.
+
+My main tech stack is Linux, Python, Bash, Wazuh, Git, and AWS.
+
+I've built projects involving CIS compliance auditing, Linux security hardening, security automation, and packet analysis using PCAP data.
+
+My goal is to continue developing both technical security and GRC skills through hands-on projects and continuous learning.
