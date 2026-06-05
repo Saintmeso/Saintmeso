@@ -11,3 +11,7 @@ My main tech stack is Linux, Python, Bash, Wazuh, Git, and AWS.
 I've built projects involving CIS compliance auditing, Linux security hardening, security automation, and packet analysis using PCAP data.
 
 My goal is to continue developing both technical security and GRC skills through hands-on projects and continuous learning.
+
+I am Currently learning:
+-ISO 27001 Lead Auditor
+-AWS Cloud Engineering
