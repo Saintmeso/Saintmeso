@@ -21,8 +21,9 @@ If an idea helps me learn something new, I'll probably build it.
 ### Projects I've Built
 
 - CIS Compliance Auditing
-- Linux Security Hardening
+- PCI-DSS Audit
 - Azure Active Directory & ServiceNow Help Desk Lab
+- Active Directory Lab environment
 
 ### Currently Learning
 
