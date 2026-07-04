@@ -1,17 +1,32 @@
 ## Hello there!
 
-I'm Yousif, a cybersecurity student focused on GRC, security automation, and cloud security.
+I'm Yousif, a cybersecurity student focused on Microsoft Azure, security automation, cloud security, GRC, and IT infrastructure.
 
-I enjoy building projects that help me learn by doing, whether that's compliance auditing, security monitoring, or cloud-based security labs.
+I enjoy building projects that help me learn by doing, whether that's compliance auditing, security monitoring, cloud security labs, or enterprise IT environments.
 
 If an idea helps me learn something new, I'll probably build it.
 
-My main tech stack is Linux, Python, Bash, Wazuh, Git, and AWS.
+### Main Technologies
 
-I've built projects involving CIS compliance auditing, Linux security hardening, security automation, and packet analysis using PCAP data.
+- Linux
+- Python
+- Bash
+- Microsoft Azure
+- Active Directory
+- ServiceNow
+- Wazuh
+- Git
+- AWS
 
-My goal is to continue developing both technical security and GRC skills through hands-on projects and continuous learning.
+### Projects I've Built
 
-I am Currently learning:
-- ISO 27001 Lead Auditor
-- AWS Cloud Engineering
+- CIS Compliance Auditing
+- Linux Security Hardening
+- Azure Active Directory & ServiceNow Help Desk Lab
+
+### Currently Learning
+
+- Microsoft Azure
+- Active Directory
+- Windows Server Administration
+- ServiceNow
