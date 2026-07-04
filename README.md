@@ -31,3 +31,7 @@ If an idea helps me learn something new, I'll probably build it.
 - Active Directory
 - Windows Server Administration
 - ServiceNow
+
+### Currently Studying for
+- AZ-900
+
