@@ -14,7 +14,6 @@ If an idea helps me learn something new, I'll probably build it.
 - Microsoft Azure
 - Active Directory
 - ServiceNow
-- Wazuh
 - Git
 - AWS
 
@@ -24,6 +23,7 @@ If an idea helps me learn something new, I'll probably build it.
 - PCI-DSS Audit
 - Azure Active Directory & ServiceNow Help Desk Lab
 - Active Directory Lab environment
+- Azure Blob Storage Backup Automation and Alerting 
 
 ### Currently Learning
 
