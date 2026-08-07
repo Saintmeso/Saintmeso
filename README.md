@@ -10,7 +10,8 @@
 
 ### 🚀 About Me
 
-🌱 &nbsp;I'm currently learning **Terraform, Azure, Active Directory,**
+🌱 &nbsp;Cybersecurity student passionate about cloud computing, IT infrastructure, and automation. Experienced with Microsoft Azure, Active Directory, PowerShell, and workflow automation through hands-on enterprise projects. Continuously building practical skills in cloud engineering, DevOps, and cybersecurity.
+**
 
 ### 🛠️ Tech Stack
 
