@@ -1,37 +1,32 @@
-## Hello there!
+<p align="center">
+  <a href="https://github.com/Saintmeso">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=634&text=Hello!%20I'm%20Yousif" alt="Hello! I&#39;m Yousif" />
+  </a>
+</p>
 
-I'm Yousif, a cybersecurity student focused on Microsoft Azure, security automation, cloud security, GRC, and IT infrastructure.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=3fb950&center=true&vCenter=true&width=900&height=44&lines=A%20cybersecurity%20student%20focused%20on%20Microsoft%20Azure%2C%20cloud%20security%2C%20%20IT%20infrastructure." alt="Typing headlines" />
+</p>
 
-I enjoy building projects that help me learn by doing, whether that's compliance auditing, security monitoring, cloud security labs, or enterprise IT environments.
+### 🚀 About Me
 
-If an idea helps me learn something new, I'll probably build it.
+🌱 &nbsp;I'm currently learning **Terraform, Azure, Active Directory,**
 
-### Main Technologies
+### 🛠️ Tech Stack
 
-- Linux
-- Python
-- Bash
-- Microsoft Azure
-- Active Directory
-- ServiceNow
-- Git
-- AWS
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
+</p>
 
-### Projects I've Built
+### 🔗 Connect With Me
 
-- CIS Compliance Auditing
-- PCI-DSS Audit
-- Azure Active Directory & ServiceNow Help Desk Lab
-- Active Directory Lab environment
-- Azure Blob Storage Backup Automation and Alerting 
+<p align="left">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/yousif-al-obaidi" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ryalobaidi@icloud.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-### Currently Learning
-
-- Microsoft Azure
-- Active Directory
-- Windows Server Administration
-- ServiceNow
-
-### Currently Studying for
-- AZ-900
-
+---
+<p align="center"><i>⭐️ From <a href="https://github.com/Saintmeso">Saintmeso</a></i></p>
